@@ -10,3 +10,6 @@ I'm a self-taught passionate Sofware Engineer from Egypt 🇪🇬
 - ❤️ I love coding , and building fun experiments
 
 - 💬 Ask me about anything [here](https://www.linkedin.com/in/ahmeddhus/)
+
+
+| <a href="https://github.com/ahmeddhus/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmeddhus&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a>
