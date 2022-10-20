@@ -14,4 +14,4 @@ I'm a self-taught passionate Sofware Engineer from Egypt 🇪🇬
 
 
 
-![](https://leetcard.jacoblin.cool/ahmeddhus?ext=heatmap)  <a href="https://github.com/ahmeddhus/github-readme-stats"><img align="start" src="https://github-readme-stats.vercel.app/api?username=ahmeddhus&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a>
+![Leetcode Stats](https://leetcard.jacoblin.cool/lapor?ext=contest)
