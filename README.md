@@ -12,4 +12,6 @@ I'm a self-taught passionate Sofware Engineer from Egypt 🇪🇬
 - 💬 Ask me about anything [here](https://www.linkedin.com/in/ahmeddhus/)
 
 
-| <a href="https://github.com/ahmeddhus/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmeddhus&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a>
+
+
+![](https://leetcard.jacoblin.cool/ahmeddhus?ext=heatmap)  <a href="https://github.com/ahmeddhus/github-readme-stats"><img align="start" src="https://github-readme-stats.vercel.app/api?username=ahmeddhus&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a>
