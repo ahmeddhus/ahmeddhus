@@ -16,4 +16,8 @@
 <a href="https://www.youtube.com/@groovex7470">
   <img src="https://img.shields.io/badge/youtube-%23D14836.svg?&style=for-the-badge&logo=youtube&logoColor=white" />
 </a> 
+  
+  <a href="https://medium.com/@ahmeddhus">
+  <img src="https://img.shields.io/badge/medium-%23D14836.svg?&color=black&style=for-the-badge&logo=medium&logoColor=white" />
+</a> 
 </p>
