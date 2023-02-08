@@ -1,6 +1,11 @@
 <h1 align='center'>Hi there, It's Ahmed Hussein</h1>
 
-<p align='center'>A self-taught passionate Flutter developer 💙 from Egypt 🇪🇬</p>
+<p align='start'>Software engineer with expertise in the Flutter framework and a strong background in Android development plus a proven track record of delivering high-quality software projects.
+
+Deep understanding of Object-Oriented Programming (OOP) and design patterns, which enables me to create efficient and scalable solutions for complex problems.
+
+My passion for technology and innovation drives me to continuously improve my skills, share my knowledge with the community and stay up-to-date with the latest industry advancements.
+</p>
 
 
 <p align='center'>
