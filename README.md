@@ -25,4 +25,9 @@ My passion for technology and innovation drives me to continuously improve my sk
   <a href="https://medium.com/@ahmeddhus">
   <img src="https://img.shields.io/badge/medium-%23D14836.svg?&color=black&style=for-the-badge&logo=medium&logoColor=white" />
 </a> 
+</a> 
+  </a>&nbsp;&nbsp;
+  <a href="https://stackoverflow.com/users/6694858/ahmed-hussein">
+  <img src="https://img.shields.io/badge/stackoverflow-%23D14836.svg?&color=white&style=for-the-badge&logo=stackoverflow" />
+</a> 
 </p>
