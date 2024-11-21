@@ -12,18 +12,18 @@ Continuously learning and staying updated with the latest industry trends, my go
 <a href="mailto:ahmeddhus@gmail.com">
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="https://twitter.com/ahmeddhus">
-  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+<a href="https://bsky.app/profile/ahmeddhus.bsky.social">
+  <img src="https://img.shields.io/badge/bluesky-%231DA1F2.svg?&style=for-the-badge&logo=bluesky&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/ahmeddhus/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+<a href="https://x.com/ahmeddhus">
+  <img src="https://img.shields.io/badge/x-%23D14836.svg?&color=black&style=for-the-badge&logo=x&logoColor=white" />
 </a>&nbsp;&nbsp;
   <a href="https://stackoverflow.com/users/6694858/ahmed-hussein">
   <img src="https://img.shields.io/badge/stackoverflow-%23D14836.svg?&color=white&style=for-the-badge&logo=stackoverflow" />
 </a>&nbsp;&nbsp;
   <a href="https://medium.com/@ahmeddhus">
   <img src="https://img.shields.io/badge/medium-%23D14836.svg?&color=black&style=for-the-badge&logo=medium&logoColor=white" />
-</a>&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@groovex7470">
-  <img src="https://img.shields.io/badge/youtube-%23D14836.svg?&style=for-the-badge&logo=youtube&logoColor=white" />
 </p>
