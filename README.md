@@ -1,10 +1,13 @@
 <h1 align='center'>Hi there, It's Ahmed Hussein</h1>
 
-<p align='start'>With a foundation in Native Android Development and a transition to Flutter, I've cultivated a passion for crafting innovative mobile solutions. My journey in software development began in 2018 as a part-time Native Android Developer, which fueled my interest in mobile technologies. Graduating from the Faculty of Computers and Artificial Intelligence at Benha University in 2019 armed me with a solid understanding of Computer Science principles.
+<p align='start'>
 
-While specializing in mobile development, I'm also actively broadening my expertise in backend technologies, aiming for a holistic understanding of software engineering. I view coding as an art form, infusing creativity and elegance into every line of code to deliver functional and visually appealing solutions.
-
-Continuously learning and staying updated with the latest industry trends, my goal is to contribute meaningfully to the tech community by building impactful applications and sharing knowledge with others.
+- Mobile Engineer with 5+ years of experience (4+ in Flutter, 1+ in Android).
+- Bachelor of Computer Science, Banha University (2019).
+- Expert in Flutter, Android, iOS, and custom plugin development.
+- Strong understanding of backend systems, databases, and software engineering principles.
+- Proficient in multiple programming languages, development tools, and CI/CD pipelines.
+- Experienced in full app lifecycle, Agile methodologies, and cross-platform development.
 </p>
 
 
