@@ -55,12 +55,6 @@ I write in-depth technical articles on software design, Flutter internals, and D
 
 ---
 
-### 📈 GitHub Stats
-
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmeddhus&show_icons=true&theme=dark)
-
----
-
 ### 📬 Connect With Me
 
 <p align='center'>
