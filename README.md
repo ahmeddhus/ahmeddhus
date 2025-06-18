@@ -1,5 +1,4 @@
 <img align="left" src="https://raw.githubusercontent.com/orhun/orhun/refs/heads/master/assets/ratatui-spin-dark.gif#gh-dark-mode-only">
-<img align="left" src="https://raw.githubusercontent.com/orhun/orhun/refs/heads/master/assets/ratatui-spin-light.gif#gh-light-mode-only">
 
 <br>
 
@@ -78,22 +77,3 @@ A results-driven mobile engineer passionate about delivering robust apps at scal
 
 ---
 
-### 📬 Connect
-
-<p align="start">
-  <a href="mailto:ahmeddhus@gmail.com">
-    <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://bsky.app/profile/ahmeddhus.bsky.social">
-    <img src="https://img.shields.io/badge/bluesky-%231DA1F2.svg?&style=for-the-badge&logo=bluesky&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/ahmeddhus/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://x.com/ahmeddhus">
-    <img src="https://img.shields.io/badge/x-%23D14836.svg?&color=black&style=for-the-badge&logo=x&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://medium.com/@ahmeddhus">
-    <img src="https://img.shields.io/badge/medium-%23D14836.svg?&color=black&style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-</p>
