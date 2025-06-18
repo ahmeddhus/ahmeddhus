@@ -1,31 +1,26 @@
 <img align="left" src="https://raw.githubusercontent.com/orhun/orhun/refs/heads/master/assets/ratatui-spin-dark.gif#gh-dark-mode-only">
-
 <br>
 
 
-### Hey, It's Ahmed Hussein 👋🏾
+<p align="center">
 
-A results-driven mobile engineer passionate about delivering robust apps at scale. I specialize in Flutter and native technologies.
+  [![Gmail Badge](https://img.shields.io/badge/-ahmeddhus@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ahmeddhus@gmail.com)](mailto:ahmeddhus@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-ahmeddhus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmeddhus/)](https://www.linkedin.com/in/ahmeddhus/)
+[![Bluesky Badge](https://img.shields.io/badge/-ahmeddhus-1DA1F2?style=flat-square&logo=bluesky&logoColor=white&link=https://bsky.app/profile/ahmeddhus.bsky.social)](https://bsky.app/profile/ahmeddhus.bsky.social)
+[![X Badge](https://img.shields.io/badge/-ahmeddhus-000000?style=flat-square&logo=x&logoColor=white&link=https://x.com/ahmeddhus)](https://x.com/ahmeddhus)
+[![Medium Badge](https://img.shields.io/badge/-@ahmeddhus-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@ahmeddhus/)](https://medium.com/@ahmeddhus/)
 
-<br>
-
-<p align="start">
-  <a href="mailto:ahmeddhus@gmail.com">
-    <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://bsky.app/profile/ahmeddhus.bsky.social">
-    <img src="https://img.shields.io/badge/bluesky-%231DA1F2.svg?&style=for-the-badge&logo=bluesky&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/ahmeddhus/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://x.com/ahmeddhus">
-    <img src="https://img.shields.io/badge/x-%23D14836.svg?&color=black&style=for-the-badge&logo=x&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://medium.com/@ahmeddhus">
-    <img src="https://img.shields.io/badge/medium-%23D14836.svg?&color=black&style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
 </p>
+
+
+### Hey there from Egypt! 👋
+
+
+
+Mobile engineer focused on building robust, scalable apps. **Flutter** is my main tool, but I go native when it counts. I thrive on turning complex business needs into clean code and seamless user experiences.
+I care about craftsmanship, open source, and sharing what I learn with the community.
+
+<br>
 
 <br>
 <br>
