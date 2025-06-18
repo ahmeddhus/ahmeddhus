@@ -1,14 +1,35 @@
-<br>
-<img width="30%" align="right" alt="GitHub Skyline" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" />
+<img align="left" src="https://raw.githubusercontent.com/orhun/orhun/refs/heads/master/assets/ratatui-spin-dark.gif#gh-dark-mode-only">
+
 <br>
 
-![Mobile Engineer](https://img.shields.io/badge/Mobile-Engineer-purple)
-![Flutter Expert](https://img.shields.io/badge/Flutter-Expert-informational)
-![Dart Lover](https://img.shields.io/badge/Dart-Lover-6B9CB0)
-![Java Enthusiast](https://img.shields.io/badge/Java-Enthusiast-yellow)
-![Exp 5+ yrs](https://img.shields.io/badge/Exp-5%2B%20yrs-red)
+
+### Hey, It's Ahmed Hussein 👋🏾
 
 A results-driven mobile engineer passionate about delivering robust apps at scale. I specialize in Flutter and native technologies.
+
+<br>
+
+<p align="start">
+  <a href="mailto:ahmeddhus@gmail.com">
+    <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://bsky.app/profile/ahmeddhus.bsky.social">
+    <img src="https://img.shields.io/badge/bluesky-%231DA1F2.svg?&style=for-the-badge&logo=bluesky&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ahmeddhus/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://x.com/ahmeddhus">
+    <img src="https://img.shields.io/badge/x-%23D14836.svg?&color=black&style=for-the-badge&logo=x&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://medium.com/@ahmeddhus">
+    <img src="https://img.shields.io/badge/medium-%23D14836.svg?&color=black&style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+</p>
+
+<br>
+<br>
+
 
 ---
 
