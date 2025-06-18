@@ -1,47 +1,48 @@
-<h1 align='center'>Hi there, It's Ahmed Hussein</h1>
+<br>
+<img width="30%" align="right" alt="GitHub Skyline" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" />
+<br>
 
-<p align='center'>
-Mobile Engineer | Open Source Contributor | Tech Writer
-</p>
+![Mobile Engineer](https://img.shields.io/badge/Mobile-Engineer-purple)
+![Flutter Expert](https://img.shields.io/badge/Flutter-Expert-informational)
+![Dart Lover](https://img.shields.io/badge/Dart-Lover-6B9CB0)
+![Java Enthusiast](https://img.shields.io/badge/Java-Enthusiast-yellow)
+![Exp 5+ yrs](https://img.shields.io/badge/Exp-5%2B%20yrs-red)
+
+A results-driven mobile engineer passionate about delivering robust apps at scale. I specialize in Flutter and native technologies.
 
 ---
 
-### 👨‍💻 About Me
+### 🚀 Live Projects
 
-Passionate about building high-performance mobile applications using Flutter and native technologies. With over 5 years of experience (4+ in Flutter), I’ve built fintech and e-commerce apps serving more than **172K monthly active users**.
+- [Jawahr](https://apps.apple.com/sa/app/jawahr-domestic-workforce/id1518043064) - Home and professional services **e-commerce** platform trusted by **150,000+ active users** monthly across Saudi Arabia.
 
-- 🔹 Develop custom internal plugins to bridge native Android/iOS functionality  
-- 🔹 Contribute to open-source libraries (e.g., Payfort SDK, Facebook SDK)  
-- 🔹 Manage full app lifecycles — from concept and architecture to deployment  
-- 🔹 Mentor junior engineers in Flutter, architecture, and mobile best practices  
-- 🔹 Build backend-aware mobile apps with database and API lifecycle knowledge  
+- [QSalary](https://apps.apple.com/sa/app/qsalary/id1580559019) - **Fintech app** empowering employees with instant salary access and advanced payroll solutions.
 
-I'm always open to discussing mobile development, solving tough technical challenges, and exploring new opportunities to make a positive impact.
+- [Ozee](https://apps.apple.com/sa/app/ozee/id6453475297) - On-demand **e-commerce** app connecting customers with beauty and wellness experts at their doorstep.
+
+- [Ozeesalon SP](https://apps.apple.com/sa/app/ozeesalon-sp/id6448941881) - **Beauty services SaaS** for professionals to manage appointments and deliver at-home services.
+
+- [Aqarek Platform](https://apps.apple.com/us/app/aqarek-platform/id1598882735) - **Proptech** marketplace for seamless real estate selection, payment, and transfer in Saudi Arabia.
 
 ---
 
 ### 🔓 Open Source Contributions
 
-I actively contribute to open-source projects to support the developer community and improve public tooling.
-
-- 🧾 **[flutter_amazon_payfort](https://github.com/vvvirani/flutter_amazon_payfort/pull/26)** – Enhanced Apple Pay result handling for smoother SDK usage.  
-- ⚙️ **[flutter_amazon_payfort](https://github.com/vvvirani/flutter_amazon_payfort/pull/33)** – Added `Command` enum for clearer and extensible SDK integration.  
-- 🔄 **[flutter_facebook_app_links](https://github.com/Mapk26/flutter_facebook_app_links/pull/27)** – Upgraded Facebook iOS SDK to latest version.  
-- ✨ **[super_extensions](https://github.com/AbhishekDoshi26/super_extensions/pull/10)** – Added helpful `String` extensions like `isValidEmail` and `getInitials`.  
-- ➕ More in [my contributions portfolio »](https://github.com/ahmeddhus/open-source-contributions)
+- [flutter_amazon_payfort #26](https://github.com/vvvirani/flutter_amazon_payfort/pull/26) – Enhanced Apple Pay result handling
+- [flutter_amazon_payfort #33](https://github.com/vvvirani/flutter_amazon_payfort/pull/33) – Added `Command` enum for SDK integration
+- [flutter_facebook_app_links #27](https://github.com/Mapk26/flutter_facebook_app_links/pull/27) – Upgraded Facebook iOS SDK
+- [super_extensions #10](https://github.com/AbhishekDoshi26/super_extensions/pull/10) – Added useful `String` extensions
+- More in my [contributions portfolio »](https://github.com/ahmeddhus/open-source-contributions)
 
 ---
 
 ### 📝 Technical Articles
 
-I write in-depth technical articles on software design, Flutter internals, and Dart behavior:
-
-- 🔥 [Pride Kills Good Design](https://medium.com/@ahmeddhus/pride-kills-good-design-63a8f0e085e4)  
-- 📏 [Don’t Forget What MediaQuery *Really* Is](https://medium.com/@ahmeddhus/dont-forget-what-mdeiaquery-really-is-3f2a1ca0e024)  
-- 🧵 [Single-threaded? That *Isolates* This](https://medium.com/@ahmeddhus/single-threaded-that-isolates-this-43971c7ecf24)  
-- ⏳ [`addPostFrameCallback` vs `endOfFrame`](https://medium.com/@ahmeddhus/addpostframecallback-vs-endofframe-then-in-widgetsbinding-with-rendering-a8ed5d527669)  
-
-> 📰 Find all articles on [Medium →](https://medium.com/@ahmeddhus)
+- [Pride Kills Good Design](https://medium.com/@ahmeddhus/pride-kills-good-design-63a8f0e085e4)
+- [Don’t Forget What MediaQuery *Really* Is](https://medium.com/@ahmeddhus/dont-forget-what-mdeiaquery-really-is-3f2a1ca0e024)
+- [Single-threaded? That *Isolates* This](https://medium.com/@ahmeddhus/single-threaded-that-isolates-this-43971c7ecf24)
+- [`addPostFrameCallback` vs `endOfFrame`](https://medium.com/@ahmeddhus/addpostframecallback-vs-endofframe-then-in-widgetsbinding-with-rendering-a8ed5d527669)  
+> See all my articles on [Medium →](https://medium.com/@ahmeddhus)
 
 ---
 
@@ -55,9 +56,9 @@ I write in-depth technical articles on software design, Flutter internals, and D
 
 ---
 
-### 📬 Connect With Me
+### 📬 Connect
 
-<p align='center'>
+<p align="start">
   <a href="mailto:ahmeddhus@gmail.com">
     <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
@@ -69,9 +70,6 @@ I write in-depth technical articles on software design, Flutter internals, and D
   </a>&nbsp;&nbsp;
   <a href="https://x.com/ahmeddhus">
     <img src="https://img.shields.io/badge/x-%23D14836.svg?&color=black&style=for-the-badge&logo=x&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://stackoverflow.com/users/6694858/ahmed-hussein">
-    <img src="https://img.shields.io/badge/stackoverflow-%23D14836.svg?&color=white&style=for-the-badge&logo=stackoverflow" />
   </a>&nbsp;&nbsp;
   <a href="https://medium.com/@ahmeddhus">
     <img src="https://img.shields.io/badge/medium-%23D14836.svg?&color=black&style=for-the-badge&logo=medium&logoColor=white" />
