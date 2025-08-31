@@ -44,6 +44,7 @@ I care about craftsmanship, open source, and sharing what I learn with the commu
 
 ### 🔓 Open Source Contributions
 
+- [flutter #173925](https://github.com/flutter/flutter/pull/173925) - Add SliverGrid.list convenience constructor
 - [paged_vertical_calendar #50](https://github.com/casvanluijtelaar/paged_vertical_calendar/pull/50) - Update `infinite_scroll_pagination` to v5.1.0 with breaking changes
 - [flutter_amazon_payfort #26](https://github.com/vvvirani/flutter_amazon_payfort/pull/26) – Enhanced Apple Pay result handling
 - [flutter_amazon_payfort #33](https://github.com/vvvirani/flutter_amazon_payfort/pull/33) – Added `Command` enum for SDK integration
