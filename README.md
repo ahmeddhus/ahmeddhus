@@ -30,6 +30,10 @@ I care about craftsmanship, open source, and sharing what I learn with the commu
 
 ### 🚀 Live Projects
 
+- [Daftra Accounting Software](https://play.google.com/store/apps/details?id=com.daftra.app&hl=en) - Daftra is a Cloud accounting software solution for small and medium businesses, offering simple, accurate tools to manage your accounts, record journal entries, track expenses, and analyze your business performance from anywhere.
+
+- [Daftra POS](https://apps.apple.com/eg/app/pos-retail-point-of-sale/id1615279736) - Flixable retail point of sale (POS) software.
+
 - [Jawahr](https://apps.apple.com/sa/app/jawahr-domestic-workforce/id1518043064) - Home and professional services **e-commerce** platform trusted by **150,000+ active users** monthly across Saudi Arabia.
 
 - [QSalary](https://apps.apple.com/sa/app/qsalary/id1580559019) - **Fintech app** empowering employees with instant salary access and advanced payroll solutions.
