@@ -1,30 +1,22 @@
-<img align="left" src="https://raw.githubusercontent.com/orhun/orhun/refs/heads/master/assets/ratatui-spin-dark.gif#gh-dark-mode-only">
-<br>
-
-
 <p align="center">
-
-  [![Gmail Badge](https://img.shields.io/badge/-ahmeddhus@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ahmeddhus@gmail.com)](mailto:ahmeddhus@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/-ahmeddhus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmeddhus/)](https://www.linkedin.com/in/ahmeddhus/)
-[![Bluesky Badge](https://img.shields.io/badge/-ahmeddhus-1DA1F2?style=flat-square&logo=bluesky&logoColor=white&link=https://bsky.app/profile/ahmeddhus.bsky.social)](https://bsky.app/profile/ahmeddhus.bsky.social)
-[![X Badge](https://img.shields.io/badge/-ahmeddhus-000000?style=flat-square&logo=x&logoColor=white&link=https://x.com/ahmeddhus)](https://x.com/ahmeddhus)
-[![Medium Badge](https://img.shields.io/badge/-@ahmeddhus-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@ahmeddhus/)](https://medium.com/@ahmeddhus/)
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/orhun/orhun/59610506414dd8e35310eea7580679d55e83ce79/assets/ratatui-spin-dark.gif">
+    <img src="https://raw.githubusercontent.com/orhun/orhun/59610506414dd8e35310eea7580679d55e83ce79/assets/ratatui-spin-light.gif" width="160" alt="Spinning animation">
+  </picture>
 </p>
 
+<p align="center">
+  <a href="mailto:ahmeddhus@gmail.com"><img src="https://img.shields.io/badge/-ahmeddhus@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ahmeddhus@gmail.com" alt="Gmail Badge"></a>
+  <a href="https://www.linkedin.com/in/ahmeddhus/"><img src="https://img.shields.io/badge/-ahmeddhus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmeddhus/" alt="LinkedIn Badge"></a>
+  <a href="https://bsky.app/profile/ahmeddhus.bsky.social"><img src="https://img.shields.io/badge/-ahmeddhus-1DA1F2?style=flat-square&logo=bluesky&logoColor=white&link=https://bsky.app/profile/ahmeddhus.bsky.social" alt="Bluesky Badge"></a>
+  <a href="https://x.com/ahmeddhus"><img src="https://img.shields.io/badge/-ahmeddhus-000000?style=flat-square&logo=x&logoColor=white&link=https://x.com/ahmeddhus" alt="X Badge"></a>
+  <a href="https://medium.com/@ahmeddhus/"><img src="https://img.shields.io/badge/-@ahmeddhus-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@ahmeddhus/" alt="Medium Badge"></a>
+</p>
 
 ### Hey there from Egypt! 👋
 
-
-
 Mobile engineer focused on building robust, scalable apps. **Flutter** is my main tool, but I go native when it counts. I thrive on turning complex business needs into clean code and seamless user experiences.
 I care about craftsmanship, open source, and sharing what I learn with the community.
-
-<br>
-
-<br>
-<br>
-
 
 ---
 
@@ -32,7 +24,7 @@ I care about craftsmanship, open source, and sharing what I learn with the commu
 
 - [Daftra Accounting Software](https://play.google.com/store/apps/details?id=com.daftra.app&hl=en) - Daftra is a Cloud accounting software solution for small and medium businesses, offering simple, accurate tools to manage your accounts, record journal entries, track expenses, and analyze your business performance from anywhere.
 
-- [Daftra POS](https://apps.apple.com/eg/app/pos-retail-point-of-sale/id1615279736) - Flixable retail point of sale (POS) software.
+- [Daftra POS](https://apps.apple.com/eg/app/pos-retail-point-of-sale/id1615279736) - Flexible retail point of sale (POS) software.
 
 - [Jawahr](https://apps.apple.com/sa/app/jawahr-domestic-workforce/id1518043064) - Home and professional services **e-commerce** platform trusted by **150,000+ active users** monthly across Saudi Arabia.
 
@@ -48,16 +40,16 @@ I care about craftsmanship, open source, and sharing what I learn with the commu
 
 ### 🔓 Open Source Contributions
 
-- [flutter_classic_bluetooth #11](https://github.com/almasumdev/flutter_classic_bluetooth/pull/11) - fix(macos): stop crash when discovery is started a second time
-- [flutter_classic_bluetooth #10](https://github.com/almasumdev/flutter_classic_bluetooth/pull/10) - fix(windows): fall back to an RFCOMM channel when UUID connect fails
-- [flutter_amazon_payfort #40](https://github.com/vvvirani/flutter_amazon_payfort/pull/40) - Fix Android PayFort request mapping for saved card token (token_name)
+- [flutter_classic_bluetooth #11](https://github.com/almasumdev/flutter_classic_bluetooth/pull/11) - Fixed a macOS crash when Bluetooth discovery is restarted
+- [flutter_classic_bluetooth #10](https://github.com/almasumdev/flutter_classic_bluetooth/pull/10) - Added an RFCOMM channel fallback when UUID connect fails on Windows
+- [flutter_amazon_payfort #40](https://github.com/vvvirani/flutter_amazon_payfort/pull/40) - Fixed Android request mapping for saved card tokens
 - [flutter #173925](https://github.com/flutter/flutter/pull/173925) - Add SliverGrid.list convenience constructor
 - [flutter_secure_storage #989](https://github.com/juliansteenbakker/flutter_secure_storage/pull/989) - Add Secure Enclave Support to iOS/macOS
 - [paged_vertical_calendar #50](https://github.com/casvanluijtelaar/paged_vertical_calendar/pull/50) - Update `infinite_scroll_pagination` to v5.1.0 with breaking changes
-- [flutter_amazon_payfort #26](https://github.com/vvvirani/flutter_amazon_payfort/pull/26) – Enhanced Apple Pay result handling
-- [flutter_amazon_payfort #33](https://github.com/vvvirani/flutter_amazon_payfort/pull/33) – Added `Command` enum for SDK integration
-- [flutter_facebook_app_links #27](https://github.com/Mapk26/flutter_facebook_app_links/pull/27) – Upgraded Facebook iOS SDK
-- [super_extensions #10](https://github.com/AbhishekDoshi26/super_extensions/pull/10) – Added useful `String` extensions
+- [flutter_amazon_payfort #26](https://github.com/vvvirani/flutter_amazon_payfort/pull/26) - Enhanced Apple Pay result handling
+- [flutter_amazon_payfort #33](https://github.com/vvvirani/flutter_amazon_payfort/pull/33) - Added `Command` enum for SDK integration
+- [flutter_facebook_app_links #27](https://github.com/Mapk26/flutter_facebook_app_links/pull/27) - Upgraded Facebook iOS SDK
+- [super_extensions #10](https://github.com/AbhishekDoshi26/super_extensions/pull/10) - Added useful `String` extensions
 - More in my [contributions portfolio »](https://github.com/ahmeddhus/open-source-contributions)
 
 ---
