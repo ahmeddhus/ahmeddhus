@@ -41,13 +41,13 @@ I care about craftsmanship, open source, and sharing what I learn with the commu
 ### 🔓 Open Source Contributions
 
 - [flutter #173925](https://github.com/flutter/flutter/pull/173925) - Add SliverGrid.list convenience constructor
+- [flutter_secure_storage #989](https://github.com/juliansteenbakker/flutter_secure_storage/pull/989) - Add Secure Enclave Support to iOS/macOS
 - [flutter_classic_bluetooth #11](https://github.com/almasumdev/flutter_classic_bluetooth/pull/11) - Fixed a macOS crash when Bluetooth discovery is restarted
 - [flutter_classic_bluetooth #10](https://github.com/almasumdev/flutter_classic_bluetooth/pull/10) - Added an RFCOMM channel fallback when UUID connect fails on Windows
 - [flutter_amazon_payfort #40](https://github.com/vvvirani/flutter_amazon_payfort/pull/40) - Fixed Android request mapping for saved card tokens
-- [flutter_secure_storage #989](https://github.com/juliansteenbakker/flutter_secure_storage/pull/989) - Add Secure Enclave Support to iOS/macOS
-- [paged_vertical_calendar #50](https://github.com/casvanluijtelaar/paged_vertical_calendar/pull/50) - Update `infinite_scroll_pagination` to v5.1.0 with breaking changes
 - [flutter_amazon_payfort #26](https://github.com/vvvirani/flutter_amazon_payfort/pull/26) - Enhanced Apple Pay result handling
 - [flutter_amazon_payfort #33](https://github.com/vvvirani/flutter_amazon_payfort/pull/33) - Added `Command` enum for SDK integration
+- [paged_vertical_calendar #50](https://github.com/casvanluijtelaar/paged_vertical_calendar/pull/50) - Update `infinite_scroll_pagination` to v5.1.0 with breaking changes
 - [flutter_facebook_app_links #27](https://github.com/Mapk26/flutter_facebook_app_links/pull/27) - Upgraded Facebook iOS SDK
 - [super_extensions #10](https://github.com/AbhishekDoshi26/super_extensions/pull/10) - Added useful `String` extensions
 - More in my [contributions portfolio »](https://github.com/ahmeddhus/open-source-contributions)
