@@ -48,6 +48,9 @@ I care about craftsmanship, open source, and sharing what I learn with the commu
 
 ### 🔓 Open Source Contributions
 
+- [flutter_classic_bluetooth #11](https://github.com/almasumdev/flutter_classic_bluetooth/pull/11) - fix(macos): stop crash when discovery is started a second time
+- [flutter_classic_bluetooth #10](https://github.com/almasumdev/flutter_classic_bluetooth/pull/10) - fix(windows): fall back to an RFCOMM channel when UUID connect fails
+- [flutter_amazon_payfort #40](https://github.com/vvvirani/flutter_amazon_payfort/pull/40) - Fix Android PayFort request mapping for saved card token (token_name)
 - [flutter #173925](https://github.com/flutter/flutter/pull/173925) - Add SliverGrid.list convenience constructor
 - [flutter_secure_storage #989](https://github.com/juliansteenbakker/flutter_secure_storage/pull/989) - Add Secure Enclave Support to iOS/macOS
 - [paged_vertical_calendar #50](https://github.com/casvanluijtelaar/paged_vertical_calendar/pull/50) - Update `infinite_scroll_pagination` to v5.1.0 with breaking changes
